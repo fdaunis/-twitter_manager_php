@@ -7,7 +7,7 @@
 		<meta name="author" content="Franccesc Daunis">
 		<link rel="icon" href="assets/img/favicon.ico">
 
-		<title>Twitter Manager</title>
+		<title>Twitter Get Tweets</title>
 		
 		<link href="bootstrap-4.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 	</head>
